@@ -3,13 +3,13 @@ Projeto feito através de um vídeo do LamaDev, desenvolvido do zero utilizando 
 ### Funcionalidades:
 - O usuário pode apontar a localização por onde passou e compartilhar sua opinião e avaliação sobre o local que os outros usuário podem ver
 - Sistema de login/registro armazenando os dados no local storage
-# Register
+#### Register
 ![localhost_3000_](https://user-images.githubusercontent.com/103163622/210079384-ab249616-8eed-47cc-84b9-9f6633b8bca4.png)
-# Login
+#### Login
 ![localhost_3000_ (1)](https://user-images.githubusercontent.com/103163622/210079532-bf99d450-d47e-4937-a688-131e3c91ad61.png)
-# Aponte uma localização e adicione o título, descrição e avaliação da localização
+#### Aponte uma localização e adicione o título, descrição e avaliação da localização
 ![localhost_3000_ (2)](https://user-images.githubusercontent.com/103163622/210079671-b089805b-061e-4a12-8fa7-0cd4a24e2220.png)
-# Ver as reviews de todos os usuários
+#### Ver as reviews de todos os usuários
 ![localhost_3000_ (3)](https://user-images.githubusercontent.com/103163622/210079808-4117d9a1-8bd8-46c3-9aa5-6f9b82bbfc42.png)
 
 Getting Started
